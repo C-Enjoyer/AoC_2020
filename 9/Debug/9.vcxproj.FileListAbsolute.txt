@@ -1,0 +1,2 @@
+D:\Programmieren\AdventofCode\9\Debug\9.exe
+D:\Programmieren\AdventofCode\9\Debug\9.pdb

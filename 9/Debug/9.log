@@ -1,0 +1,4 @@
+﻿  9.cpp
+D:\Programmieren\AdventofCode\9\9.cpp(37,27): warning C4018: '<': signed/unsigned mismatch
+D:\Programmieren\AdventofCode\9\9.cpp(66,27): warning C4018: '<': signed/unsigned mismatch
+  9.vcxproj -> D:\Programmieren\AdventofCode\9\Debug\9.exe
