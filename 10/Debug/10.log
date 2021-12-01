@@ -1,0 +1,3 @@
+﻿  10.cpp
+D:\Programmieren\AdventofCode\10\10.cpp(23,1): warning C4326: return type of 'main' should be 'int' instead of 'bool'
+  10.vcxproj -> D:\Programmieren\AdventofCode\10\Debug\10.exe
