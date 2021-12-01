@@ -1,0 +1,2 @@
+D:\Projekte\AdventCode\1\Debug\1.exe
+D:\Projekte\AdventCode\1\Debug\1.pdb
