@@ -1,0 +1,5 @@
+﻿  13.cpp
+D:\Projekte\AdventCode\13\13.cpp(110,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'uint64_t'
+D:\Projekte\AdventCode\13\13.cpp(110,16): message : consider using '%lld' in the format string
+D:\Projekte\AdventCode\13\13.cpp(110,16): message : consider using '%I64d' in the format string
+  13.vcxproj -> D:\Projekte\AdventCode\13\Debug\13.exe
