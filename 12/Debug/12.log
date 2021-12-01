@@ -1,0 +1,5 @@
+﻿  12.cpp
+D:\Programmieren\AdventofCode\12\12.cpp(17,2): warning C4091: 'typedef ': ignored on left of 'wp_t' when no variable is declared
+D:\Programmieren\AdventofCode\12\12.cpp(162,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Programmieren\AdventofCode\12\12.cpp(163,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  12.vcxproj -> D:\Programmieren\AdventofCode\12\Debug\12.exe
