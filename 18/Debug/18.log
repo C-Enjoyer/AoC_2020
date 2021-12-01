@@ -1,0 +1,4 @@
+﻿  18.cpp
+D:\Programmieren\AdventofCode\18\18.cpp(50,23): warning C4018: '<': signed/unsigned mismatch
+D:\Programmieren\AdventofCode\18\18.cpp(131,26): warning C4018: '<': signed/unsigned mismatch
+  18.vcxproj -> D:\Programmieren\AdventofCode\18\Debug\18.exe
