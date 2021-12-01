@@ -1,0 +1,8 @@
+﻿  14.cpp
+D:\Programmieren\AdventofCode\14\14.cpp(50,60): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+D:\Programmieren\AdventofCode\14\14.cpp(54,39): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+D:\Programmieren\AdventofCode\14\14.cpp(59,73): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+D:\Programmieren\AdventofCode\14\14.cpp(60,44): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+D:\Programmieren\AdventofCode\14\14.cpp(65,39): warning C4244: 'argument': conversion from 'uint64_t' to 'const unsigned int', possible loss of data
+D:\Programmieren\AdventofCode\14\14.cpp(70,38): warning C4244: 'initializing': conversion from 'double' to 'uint64_t', possible loss of data
+  14.vcxproj -> D:\Programmieren\AdventofCode\14\Debug\14.exe
