@@ -1,0 +1,2 @@
+D:\Programmieren\AdventofCode\7\Debug\7.exe
+D:\Programmieren\AdventofCode\7\Debug\7.pdb

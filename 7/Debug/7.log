@@ -1,0 +1,6 @@
+﻿  7.cpp
+D:\Programmieren\AdventofCode\7\7.cpp(63,12): warning C4477: 'printf' : format string '%u' requires an argument of type 'unsigned int', but variadic argument 1 has type 'uint64_t'
+D:\Programmieren\AdventofCode\7\7.cpp(63,12): message : consider using '%llu' in the format string
+D:\Programmieren\AdventofCode\7\7.cpp(63,12): message : consider using '%I64u' in the format string
+D:\Programmieren\AdventofCode\7\7.cpp(106): warning C4715: 'find_mybag': not all control paths return a value
+  7.vcxproj -> D:\Programmieren\AdventofCode\7\Debug\7.exe
