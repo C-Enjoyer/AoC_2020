@@ -1,0 +1,5 @@
+﻿  8.cpp
+D:\Programmieren\AdventofCode\8\8.cpp(46,27): warning C4018: '<': signed/unsigned mismatch
+D:\Programmieren\AdventofCode\8\8.cpp(103,24): warning C4244: '=': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+D:\Programmieren\AdventofCode\8\8.cpp(110,20): warning C4244: '=': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+  8.vcxproj -> D:\Programmieren\AdventofCode\8\Debug\8.exe
